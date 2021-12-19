@@ -1,0 +1,1 @@
+import{b as e,f as a}from"./vendor.ec7e9e6f.js";var r="_container_c93t1_1",i="_iframe_c93t1_10",s="_iframeDragged_c93t1_15",c="_header_c93t1_19";export default({isBeingDragged:t})=>e("section",{class:r},e("header",{class:a(c,"app-window-drag-handle")}),e("div",null,e("iframe",{class:a(i,t&&s),src:"https://musiclib.gitee.io/"})));

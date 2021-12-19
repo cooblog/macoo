@@ -1,0 +1,1 @@
+import{b as e,f as i}from"./vendor.ec7e9e6f.js";var a="_container_uniwv_1",r="_iframe_uniwv_9",s="_iframeDragged_uniwv_14",n="_header_uniwv_18";export default({isBeingDragged:_})=>e("section",{class:a},e("header",{class:i(n,"app-window-drag-handle")}),e("div",null,e("iframe",{class:i(r,_&&s),src:"https://musiclib.gitee.io/musicool"})));
